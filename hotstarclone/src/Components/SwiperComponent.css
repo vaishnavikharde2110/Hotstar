@@ -1,0 +1,9 @@
+.swiperDiv{
+    margin-top: 60px;
+    z-index: -1;
+}
+.swiperDiv h1{
+    color: white;
+    font-weight: 400;
+    font-size: 30px;
+}
