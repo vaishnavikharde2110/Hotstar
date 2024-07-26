@@ -1,0 +1,28 @@
+.release {
+  margin-top: 40px;
+}
+
+.heading {
+  color: white;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  background-color: 0009;
+}
+
+.heading h1 {
+  font-size: 22px;
+}
+.shows {
+  display: flex;
+}
+.show {
+  margin: 3px;
+  display: inline;
+}
+
+.show img {
+  height: 260px;
+  width: 190px;
+  object-fit: cover;
+  border-radius: 10px;
+}
